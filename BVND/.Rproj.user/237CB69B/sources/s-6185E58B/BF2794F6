@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1510717802141.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BF2794F6",
+    "lastKnownWriteTime" : 1510720848,
+    "last_content_update" : 1510721300657,
+    "path" : "~/zoe/BVND-Visualization/BVND/R/bvnd.R",
+    "project_path" : "R/bvnd.R",
+    "properties" : {
+        "cursorPosition" : "35,14",
+        "scrollLine" : "17",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
